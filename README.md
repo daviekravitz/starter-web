@@ -1,6 +1,6 @@
 # Starter Web Repository
 
-This is a simple project for showing Git and Github
+This is a simple project for showing Git and Github, changes from my feature branch
 
 ## Introduction
 
