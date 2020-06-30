@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Davie Kravitz davie_kravitz@kleinschmidtinc.com n/a
 
 # THANKS
 
